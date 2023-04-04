@@ -4,7 +4,7 @@
 This details the key process parameters of an Endress+Hauser Liquiline CM444 4-channel transmitter installed in the High Bay Lab on Rose-Hulman Institute of Technology Campus.
 - The tag of the transmitter is set as CIT150-02.
 - The transmitter interfaces with an Endress+Hauser Condumax CLS15D-B1AC Digital Conductivity Sensor, which is tagged as CE150-02.
-- CE150-02 has the following ranges for key process parameters:
+- CE150-02 key process parameters:
   - Cell Constant: k=0.1 cm^-1
   - Conductivity: 0.10 to 200 µS/cm (for water at 25°C)
   - Accuracy: ±2% o.r.
